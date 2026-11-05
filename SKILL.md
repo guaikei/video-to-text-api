@@ -97,7 +97,7 @@ metadata:
 
 ## 3. 使用前提
 
-> 必须先在 [视频文案智能提取官网](https://www.guaikei.com) 或微信 13395823479 开通 TOKEN，并配置环境变量 `GUAIKEI_API_TOKEN`。未配置或格式不对时，技能以退出码 3 退出。
+> 必须先在 [视频转文字API](https://www.guaikei.com) 或微信 13395823479 开通 TOKEN，并配置环境变量 `GUAIKEI_API_TOKEN`。未配置或格式不对时，技能以退出码 3 退出。
 
 所有命令必须在技能安装目录（含 `scripts/` 的目录）下执行。不读取 `HTTP_PROXY` / `HTTPS_PROXY`，需要代理的环境目前无法直接使用。
 
@@ -220,5 +220,5 @@ TOKEN 分按量和包月两类，以开通时的类型为准。
 ## 12. 联系与商务
 
 - TOKEN 申请、技术咨询、错误反馈：微信 13395823479
-- 官网：[视频文案智能提取官网](https://www.guaikei.com)
+- 官网：[视频文案提取与总结API](https://www.guaikei.com)
 - 大客户阶梯优惠、企业定制：联系上述微信

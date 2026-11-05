@@ -90,7 +90,7 @@ TOKEN 分按量和包月两类，以开通时的类型为准。
 ## 二、 🚀 使用教程
 
 > **⚠️ 重要提示：**
-> 请先通过微信 **13395823479** ，或访问 [视频文案智能提取官网](https://www.guaikei.com) 开通TOKEN，并配置环境变量 `GUAIKEI_API_TOKEN` 后才能正常运行。
+> 请先通过微信 **13395823479** ，或访问 [视频转文字API](https://www.guaikei.com) 开通TOKEN，并配置环境变量 `GUAIKEI_API_TOKEN` 后才能正常运行。
 
 ### 1. 基础用法：完整提取视频原文
 
@@ -184,5 +184,5 @@ node scripts/video2text/index.js --file "/path/to/your/video.mp4" --prompt "分�
 ## 五、联系与商务
 
 - TOKEN 申请 / 技术咨询 / 错误反馈：微信 13395823479。请带上完整命令（隐去 TOKEN）、stderr 最后 10 行和任务 ID
-- 官网：[视频文案智能提取官网](https://www.guaikei.com)
+- 官网：[视频转文字与文案提取API](https://www.guaikei.com)
 - 大客户阶梯优惠、企业定制对接：联系上述微信洽谈
